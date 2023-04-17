@@ -56,6 +56,12 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 
 I use OpenCore to multiboot, Windows 11 and MacOS Ventura
 
+## Adicional
+
+if you need to install an external tp-link network card follow the repository below:
+* [Wireless USB ADAPTER](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter)
+Inside the repository you will find the installation guide.
+
 
 ## Credits and links
 
