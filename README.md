@@ -6,6 +6,9 @@
 ## Disclaimer
 Use at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't copy ones shown in the config.plist!!!
 
+![neofetch](https://user-images.githubusercontent.com/80381423/232362123-982b0162-df8e-453b-9807-3d849601c78f.png)
+![Desktop](https://user-images.githubusercontent.com/80381423/232362685-6b4659c0-1d9d-4cff-bb68-e92c0c91a37f.png)
+
 <!-- ## Important information
 * This EFI supports only MacOS versions catalina(10.15) and higher. Your system will not boot if you use this on Mojave and High Sierra.
 * Ventura incremental OTA updates may fail post beta1 and force you to download the full installer. This is probably due to BluetoolFixup and IntelBluetoothFirmware kext's. If you use these kext's in your setup like i do, you can overcome this issue by disabling the kext's in your config.plist prior to running your updates and enable them back post updation. -->
