@@ -21,7 +21,7 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 | MotherBoard      | ASROCK B450M STEEL LEGEND                          |
 | Wifi/Bluetooth   | Asus AX3000 Dual Band PCI-E WiFi 6 / Bluetooth 5.0 |
 | OS Disk          | Samsung 970 EVO Plus NVMe M.2                      |
-| RAM              | 16x 8gb Tforce/tramgroup 32GB Ram (3200Mhz)        |
+| RAM              | 8x4 8 Gbs Tforce/tramgroup 32GB Ram (3200Mhz)      |
 | GPU              | ASUS ROG-STRIX RX570 8gb                           |
 | Cooler    	   | DeepCool AK620                 		            |
 
