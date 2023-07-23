@@ -1,0 +1,3 @@
+[submodule "EFI"]
+	path = EFI
+	url = https://github.com/smarriagac/EFI.git
